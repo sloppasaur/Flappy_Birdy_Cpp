@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "olcConsoleGameEngine.h"
+#include "olcConsoleGameEngineSDL.h"
 
 class OneLoneCoder_FlappyBird : public olcConsoleGameEngine {
 public:
